@@ -14,7 +14,6 @@ html,body {
     background-color: #ffcd9e;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
 }
 .flexBox1 {
     padding-left: 100px;
